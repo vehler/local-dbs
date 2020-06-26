@@ -1,0 +1,5 @@
+mongo/volumes/**/*
+redis/data/**/*
+
+!mongo/volumes/.gitkeep
+!redis/data/.gitkeep
